@@ -1,0 +1,62 @@
+C:\Users\Professional\source\repos\Kafedra\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Professional\source\repos\Kafedra\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\source\repos\Kafedra\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Professional\source\repos\Kafedra\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Professional\source\repos\Kafedra\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\NTier\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Nijatred\Desktop\NTier\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\NTier\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Nijatred\Desktop\NTier\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Nijatred\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Professional\Desktop\NTier\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Professional\Desktop\NTier\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\NTier\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Professional\Desktop\NTier\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Professional\Desktop\NTier\Entities\obj\Debug\net5.0\Entities.pdb
+D:\NTier\Entities\obj\Debug\net5.0\Entities.dll
+D:\NTier\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\NTier\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache

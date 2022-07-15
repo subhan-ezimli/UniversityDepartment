@@ -1,0 +1,95 @@
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\Core.dll
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\Core.pdb
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\source\repos\Kafedra\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\source\repos\Kafedra\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\Core.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\Core.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Professional\Desktop\Subhan\NTier\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\Core.dll
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\Core.pdb
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Nijatred\Desktop\NTier\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Nijatred\Desktop\NTier\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\Core.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\Core.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\Core.dll
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\Core.pdb
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\Desktop\NTier\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Professional\Desktop\NTier\Business\obj\Debug\net5.0\Business.pdb

@@ -1,0 +1,90 @@
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\source\repos\Kafedra\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\source\repos\Kafedra\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\Desktop\Subhan\NTier\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\NTier\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Nijatred\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Nijatred\Desktop\1 ci gun\NTier\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\Professional\Desktop\NTier\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Professional\Desktop\NTier\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

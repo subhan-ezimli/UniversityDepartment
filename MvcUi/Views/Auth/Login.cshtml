@@ -1,0 +1,27 @@
+﻿@model LoginDto
+
+
+<link href="~/css/login.css" rel="stylesheet" />
+<div class="wrapper fadeInDown">
+    <div id="formContent">
+        <!-- Tabs Titles -->
+        <!-- Icon -->
+        <div class="fadeIn first">
+            <img src="/img/user-icon.png" id="icon" alt="User Icon" />
+        </div>
+
+        <!-- Login Form -->
+        <form method="post" asp-controller="Auth" asp-action="Login">
+            <input type="text" id="login" class="fadeIn second" placeholder="E-poçt" asp-for="Email">
+            <input type="text" id="password" class="fadeIn third" placeholder="Şifrə" asp-for="Password">
+            <input type="submit" class="fadeIn fourth" value="Giriş et">
+        </form>
+
+        <!-- Remind Passowrd -->
+        <div id="formFooter">
+            <a class="underlineHover" href="#"><p>Şifrəni unutmusunuz?</p></a>
+        </div>
+
+        
+    </div>
+</div>

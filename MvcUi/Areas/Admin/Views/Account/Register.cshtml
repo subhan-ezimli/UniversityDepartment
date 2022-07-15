@@ -1,0 +1,56 @@
+﻿@model UserRegisterDto
+
+
+<form class="form" asp-controller="Account" asp-action="Register">
+    <div class="form-row">
+        <div class="form-group col-md-5">
+            <label for="formGroupExampleInput">Ad</label>
+            <input type="text" asp-for="Name" class="form-control" id="formGroupExampleInput" placeholder="Ad daxil edin">
+        </div>
+        <div class="form-group  col-md-5">
+            <label for="formGroupExampleInput">Soyad</label>
+            <input type="text" class="form-control" asp-for="SurName" id="formGroupExampleInput" placeholder="Soyad daxil edin">
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-5">
+            <label for="inputEmail4">Email</label>
+            <input type="email" class="form-control" asp-for="Email" id="inputEmail4" placeholder="Email">
+        </div>
+        <div class="form-group  col-md-5">
+            <label for="inputPassword2">Şifrə</label>
+            <input type="password" class="form-control" asp-for="Password" id="inputPassword2" placeholder="Şifrə daxil edin">
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group col-5">
+            <label>Rol</label>
+            <select class="form-select form-select-lg mb-4" aria-label=".form-select-lg" asp-for="@Model.Role">
+                <option selected value=null>İstifaçi rolunu seçin</option>
+                <option selected value="Admin">Admin</option>
+                <option selected value="Teacher">Müəllim</option>
+                <option selected value="Candidate">Tələbə</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-row ml-3">
+        <div class="">
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="Gender" id="exampleRadios1" value="Kişi">
+                <label class="form-check-label" for="exampleRadios1">
+                    Kişi
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="Gender" id="exampleRadios2" value="Qadın">
+                <label class="form-check-label" for="exampleRadios2">
+                    Qadın
+                </label>
+            </div>
+
+        </div>
+    </div>
+    <div class="form-row mt-5">
+        <button type="submit" class="btn btn-primary mb-2">Yadda saxla</button>
+    </div>
+</form>

@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MvcUi</title>
+    <link rel="stylesheet" href="~/assets/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/assets/css/site.css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+    <header>
+        <div class="top-bar container">
+            <ul>
+                <li><a href="main.html">Ana Səhifə</a></li>
+                <li><a href="http://aztu.edu.az/azp/#/azp/main.do">AzTU</a></li>
+                <li><a href="http://aztu.edu.az/azp/#/azp/structure/rector.do">Aztu Rektor</a></li>
+                <li>
+                    <a href="#" class="lang"> <img src="/assets/icons/united-kingdom.png" /> En</a>
+                </li>
+                <li>
+                    <a href="#" class="lang"> <img src="/assets/icons/russia.png" />Ru</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <div class="container main-content shadow">
+            <div class="header">
+                <h1>
+                    <a href="main.html"><img src="/assets/icons/logo.png" alt="">Mühəndis riyaziyyatı və süni intellekt </a>
+                </h1>
+                <!--<a href="#"><img src="./assets/icons/Aztu.png" alt=""></a>  -->
+            </div>
+            <div class="navbar  navbar-expand-lg navbar-light mt-2" style="background-color: #e3f2fd;">
+                <ul class="navbar-nav  px-3">
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false"><b>Haqqımızda</b></a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li>
+                                <a asp-controller="About" asp-action="HeadOfDepartment" class="dropdown-item">
+                                    Kafedra
+                                    müdiri
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item"
+                                   href="/azp/curriculum/elektronika/az/about/news.jsp">Xəbərlər</a>
+                            </li>
+                            <li><a class="dropdown-item" href="elaqe.html">Əlaqə</a></li>
+                            <li>
+                                <a class="dropdown-item" href="/assets/Document/Ders cedveli.pdf">Akademik dərs cədvəli</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false"><b>Tədris</b></a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink2">
+
+
+                            <li style="margin: 0, 15px;" class="dropdown item">
+                                <a href="#">
+                                    <span>Bakalavr</span> <i class="bi bi-chevron-right"></i>
+                                </a>
+                                <ul>
+                                    <li class="dropdown">
+                                        <a href="#">
+                                            <span>informasiya sistemləri</span> <i class="bi bi-chevron-right"></i>
+                                        </a>
+                                        <ul>
+                                            <li><a href="/assets/Document/Ders cedveli.pdf">Tədris planı</a></li>
+                                        </ul>
+
+                                    </li>
+
+                                    <li style="padding-top: 15px; " class="dropdown">
+                                        <a href="#">
+                                            <span>
+                                                Sistem
+                                                Mühəndisliyi
+                                            </span> <i class="bi bi-chevron-right"></i>
+                                        </a>
+                                        <ul>
+                                            <li><a href="sm.tedrisplani.html">Tədris planı</a></li>
+                                        </ul>
+
+                                    </li>
+
+
+                                </ul>
+
+                            </li>
+                            <li><a class="dropdown-item" href="magistratura.html">Magistr</a></li>
+                            <li><a class="dropdown-item" href="doktorantura.html">Doktorantura</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink3" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false"><b>Elmi fəaliyyət</b> </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink3">
+                            <li>
+                                <a class="dropdown-item" href="elmikonfrans.html">
+                                    Elmi Konfrans və
+                                    Seminarlar
+                                </a>
+                            </li>
+                            <!--      <li><a href="/azp/curriculum/elektronika/az/scientific_activity/etl.jsp">ETL</a></li>
+                                    <li><a href="/azp/curriculum/elektronika/az/scientific_activity/etl1.jsp">ETİ</a></li>
+                                    <li><a href="/azp/curriculum/elektronika/az/scientific_activity/etl_budc.jsp">ETİ-büdcəli</a></li> -->
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink4"
+                           data-bs-toggle="dropdown" role="button" aria-expanded="false"><b>Əməkdaşlar</b></a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink4">
+                            <li><a class="dropdown-item" href="emekdaslar.html">Əməkdaşlar</a></li>
+                            <li><a class="dropdown-item" href="vezifeborclari.html">Vəzifə Borcları</a></li>
+
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/azp/curriculum/elektronika/az/elibrary/elibrary.jsp"
+                           class="nav-link"><b>E-kitabxana</b></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/assets/Document/Kafedrada maddi texniki bazasi.pdf" class="nav-link">
+                            <b>
+                                Maddi Texniki
+                                Baza
+                            </b>
+                        </a>
+
+                    </li>
+                    <li class="nav-item">
+                        <a href="/azp/curriculum/elektronika/az/gallery/gallery.jsp"
+                           class="nav-link"><b>Fotoqalereya</b></a>
+                    </li>
+                </ul>
+            </div>
+            @RenderBody()
+
+    </main>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1">
+                    <a href="#"><img src="/assets/icons/logo_footer.png" alt=""></a>
+                </div>
+                <div class="col-md-11">
+                    <div class="cont">
+                        <p class="name">
+
+                            <span>Mühəndis riyaziyyatı və süni intellekt</span>
+                        </p>
+                        <p class="info">
+                            Tel : (+994 12) 539-14-56 &nbsp;&nbsp; Fax : (+994 12) 539-14-56 &nbsp;&nbsp; E-Mail :
+                            utr@aztu.edu.az<a href="javascript:"></a><br>
+                            Copyrightⓒ 2012 <strong>Mühəndis riyaziyyatı və süni intellekt</strong> Bütün hüquqlar
+                            qorunur.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+    <script src="~/assets/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/assets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
